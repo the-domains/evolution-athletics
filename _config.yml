@@ -1,0 +1,28 @@
+name: Evolution Athletics
+favicon: null
+layout_spectrum: 0.03338934504427016
+typography_spectrum: 0.003435059217736125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9102921590674669
+  lightness: 0.3190553062595427
+  saturation: 0.6501775276847184
+  rhythmicContrast: 0.7791150817647576
+purpose: []
